@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter fullscreen_plyr__poster</name>
+   <tag></tag>
+   <elementGuidId>dc657684-a5be-4e1b-871a-8ed9759ee9b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tutorPlayer']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.plyr__poster</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d3e5141-4446-4868-80e9-863c67f5d3d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plyr__poster</value>
+      <webElementGuid>80d65d5a-cf75-47fc-a3fd-d7271b2a21b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tutorPlayer&quot;)/div[@class=&quot;plyr__video-wrapper plyr__video-embed&quot;]/div[@class=&quot;plyr__poster&quot;]</value>
+      <webElementGuid>b579982d-36d8-43a2-9ae2-dcbf2e1d4641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tutorPlayer']/div[2]/div</value>
+      <webElementGuid>49bd5bee-6202-4af0-9399-739a7a9ba3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>c70c4d68-d4d0-4284-a97f-b0373b3d50de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

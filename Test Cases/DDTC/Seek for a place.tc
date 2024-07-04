@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seek for a place</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb5e7dfc-5973-470e-9d54-a804cd5b0671</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9f7a3fb-5981-4ae7-8817-d4605239e41a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25c85899-4e3b-4132-aaf7-b2c42a63a984</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Split'</defaultValue>
+      <description></description>
+      <id>e9f7a3fb-5981-4ae7-8817-d4605239e41a</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'miejsc w: Split'</defaultValue>
+      <description></description>
+      <id>25c85899-4e3b-4132-aaf7-b2c42a63a984</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

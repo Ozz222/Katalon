@@ -17,26 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
-    'Hongkong CURA Healthcare Center', true)
+WebUI.navigateToUrl('airbnb.com')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/button_OK'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs'))
+WebUI.setText(findTestObject('Object Repository/AirBnBPages/Page_Main/input_Gdzie_query'), city)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34'))
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_Split, Chorwacja'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_31'))
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_4'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'New Comment')
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_31'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/label_14dni14dni'))
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/appointment.php#summary')
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj goci_t1dqvypu atm_9s_1ulexfb atm_336e94'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation'))
+WebUI.verifyTextPresent(expectedResult, false)
 
 WebUI.closeBrowser()
 
