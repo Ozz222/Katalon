@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('airbnb.com')
 
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/button_OK'), FailureHandling.OPTIONAL)
+
 WebUI.setText(findTestObject('Object Repository/AirBnBPages/Page_Main/input_Gdzie_query'), city)
 
 WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_Split, Chorwacja'))
@@ -33,7 +35,9 @@ WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/label_14dni1
 
 WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj goci_t1dqvypu atm_9s_1ulexfb atm_336e94'))
 
-WebUI.verifyTextPresent(expectedResult, false)
+WebUI.verifyTextPresent(expectedResult, false, FailureHandling.OPTIONAL)
+
+WebUI.verifyTextPresent(expectedResult, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 

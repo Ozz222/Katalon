@@ -9,9 +9,9 @@
    <dataFileGUID>476698d2-b3c9-470c-8d21-9e8f1bbfe7b2</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>Atlanta miejsc+w%3A+Atlanta</data>
-   <data>Warszawa miejsc+w%3A+Warszawa</data>
-   <data>Ateny miejsc+w%3A+Ateny</data>
+   <data>Atlanta miejsc+w%3A+Atlanta places+in+Atlanta</data>
+   <data>Warszawa miejsc+w%3A+Warszawa places+in+Warsaw</data>
+   <data>Ateny miejsc+w%3A+Ateny places+in+Athens</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>city</name>
@@ -20,6 +20,11 @@
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>result</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>resultEnglish</name>
       <size>3</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
