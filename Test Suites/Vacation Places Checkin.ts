@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/DDTC/Seek for a place</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>99ff503c-208b-4b53-872c-1ba3c2270fb9</id>
+         <id>32a7a18e-aee8-4198-8bec-5cb240c4bb81</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,16 +27,22 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>99ff503c-208b-4b53-872c-1ba3c2270fb9</testDataLinkId>
+         <testDataLinkId>32a7a18e-aee8-4198-8bec-5cb240c4bb81</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>city</value>
          <variableId>e9f7a3fb-5981-4ae7-8817-d4605239e41a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>99ff503c-208b-4b53-872c-1ba3c2270fb9</testDataLinkId>
+         <testDataLinkId>32a7a18e-aee8-4198-8bec-5cb240c4bb81</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>result</value>
          <variableId>25c85899-4e3b-4132-aaf7-b2c42a63a984</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d713e5e9-cb4f-42f5-8063-04ceb52ac76e</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

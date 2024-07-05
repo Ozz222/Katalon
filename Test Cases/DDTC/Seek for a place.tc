@@ -18,6 +18,12 @@
       <value></value>
       <variableId>25c85899-4e3b-4132-aaf7-b2c42a63a984</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d713e5e9-cb4f-42f5-8063-04ceb52ac76e</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Split'</defaultValue>
       <description></description>
@@ -31,5 +37,12 @@
       <id>25c85899-4e3b-4132-aaf7-b2c42a63a984</id>
       <masked>false</masked>
       <name>expectedResult</name>
+   </variable>
+   <variable>
+      <defaultValue>'miejsc w: Split'</defaultValue>
+      <description></description>
+      <id>d713e5e9-cb4f-42f5-8063-04ceb52ac76e</id>
+      <masked>false</masked>
+      <name>expectedResultEnglish</name>
    </variable>
 </TestCaseEntity>
