@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj g
 
 WebUI.verifyTextPresent(expectedResult, false, FailureHandling.OPTIONAL)
 
-WebUI.verifyTextPresent(expectedResult, false, FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyTextPresent(expectedResultEnglish, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 
