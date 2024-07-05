@@ -21,8 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('airbnb.com')
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/button_OK'))
-
 WebUI.setText(findTestObject('Object Repository/AirBnBPages/Page_Main/input_Gdzie_query'), city)
 
 WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_Split, Chorwacja'))
