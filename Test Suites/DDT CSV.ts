@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/DDTC/Seek for a place</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>38bcc065-cf96-4eae-aba3-449ddebca240</id>
+         <id>96dd26b1-1494-4828-ae26-97989e9ec95e</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,13 +27,13 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>38bcc065-cf96-4eae-aba3-449ddebca240</testDataLinkId>
+         <testDataLinkId>96dd26b1-1494-4828-ae26-97989e9ec95e</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>city</value>
          <variableId>e9f7a3fb-5981-4ae7-8817-d4605239e41a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>38bcc065-cf96-4eae-aba3-449ddebca240</testDataLinkId>
+         <testDataLinkId>96dd26b1-1494-4828-ae26-97989e9ec95e</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>result</value>
          <variableId>25c85899-4e3b-4132-aaf7-b2c42a63a984</variableId>
