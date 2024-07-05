@@ -7,9 +7,15 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>b7c83093-c413-408f-90cd-13bc4b0112ec</dataFileGUID>
-   <dataSourceUrl>C:\Users\PC\Desktop\100cities.xlsx</dataSourceUrl>
+   <dataSourceUrl>Files/xlsx_Files/100cities.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>false</value>
+      </entry>
+   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Arkusz1</sheetName>

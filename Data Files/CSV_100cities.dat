@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>adbe205f-be46-4fb9-9db8-e483df3e8d89</dataFileGUID>
-   <dataSourceUrl>C:\Users\PC\Desktop\100cities.csv</dataSourceUrl>
+   <dataSourceUrl>Files/CSV_Files/100cities.csv</dataSourceUrl>
    <driver>CSV</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
