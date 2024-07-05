@@ -25,7 +25,7 @@
          </iterationEntity>
          <testDataId>Data Files/100 cities</testDataId>
       </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>99ff503c-208b-4b53-872c-1ba3c2270fb9</testDataLinkId>
          <type>DATA_COLUMN</type>
