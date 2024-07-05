@@ -39,9 +39,9 @@
          <variableId>25c85899-4e3b-4132-aaf7-b2c42a63a984</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>32a7a18e-aee8-4198-8bec-5cb240c4bb81</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>resultEnglish</value>
          <variableId>d713e5e9-cb4f-42f5-8063-04ceb52ac76e</variableId>
       </variableLink>
    </testCaseLink>
