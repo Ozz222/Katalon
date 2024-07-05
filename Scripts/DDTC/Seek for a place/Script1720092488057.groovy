@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('airbnb.com')
+WebUI.navigateToUrl('airbnb.pl')
 
 WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/button_OK'), FailureHandling.OPTIONAL)
 
@@ -36,8 +36,6 @@ WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/label_14dni1
 WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj goci_t1dqvypu atm_9s_1ulexfb atm_336e94'))
 
 WebUI.verifyTextPresent(expectedResult, false, FailureHandling.OPTIONAL)
-
-WebUI.verifyTextPresent(expectedResultEnglish, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 
