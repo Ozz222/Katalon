@@ -19,25 +19,44 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('airbnb.pl')
+CustomKeywords.'example.MyKeywords.AppLogin'()
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/button_OK'), FailureHandling.OPTIONAL)
+for (def n : (0..2)) {
+    WebUI.selectOptionByIndex(findTestObject('Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
+        1)
 
-WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), false)
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
 
-WebUI.setText(findTestObject('Object Repository/AirBnBPages/Page_Main/input_Gdzie_query'), city)
+    if (n == 0) {
+        WebUI.click(findTestObject('Page_CURA Healthcare Service/radiobtnMedicaid'))
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_Split, Chorwacja'))
+        WebUI.delay(1)
+    }
+    
+    if (n == 1) {
+        WebUI.click(findTestObject('Page_CURA Healthcare Service/radiobtnMedicare'))
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_4'))
+        WebUI.delay(1)
+    }
+    
+    if (n == 2) {
+        WebUI.click(findTestObject('Page_CURA Healthcare Service/radiobtnNone'))
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_31'))
+        WebUI.delay(1)
+    }
+    
+    WebUI.setText(findTestObject('Page_CURA Healthcare Service/inputVisitDateField'), '09/09/2024')
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/label_14dni14dni'))
+    WebUI.setText(findTestObject('Page_CURA Healthcare Service/textarea_Comment_comment'), 'Simple comment')
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj goci_t1dqvypu atm_9s_1ulexfb atm_336e94'))
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/button_Book Appointment'))
 
-WebUI.verifyTextPresent(expectedResult, false, FailureHandling.OPTIONAL)
+    WebUI.verifyElementPresent(findTestObject('Page_CURA Healthcare Service/h2_Appointment Confirmation'), 3)
+
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/a_Go to Homepage'))
+}
 
 WebUI.closeBrowser()
+
+CustomKeywords.'example.MyKeywords.Congrats'('ziom')
 

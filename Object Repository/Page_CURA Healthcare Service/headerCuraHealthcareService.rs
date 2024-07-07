@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Appointment Confirmation</name>
+   <name>headerCuraHealthcareService</name>
    <tag></tag>
-   <elementGuidId>931a3780-dc1b-4f89-a353-6d68123dad30</elementGuidId>
+   <elementGuidId>687cec37-3ab8-4a16-908d-4cc1a42665fb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h2</value>
+         <value>h1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='summary']/div/div/div/h2</value>
+         <value>//header[@id='top']/div/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;Appointment Confirmation&quot;i]</value>
+         <value>h1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>fad46319-804d-4ea1-be06-94a777543fa3</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>68c22cb6-9072-4fbb-b371-da18f75be3c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Appointment Confirmation</value>
-      <webElementGuid>6b864d62-4c0b-470f-8361-2a04d36c28e7</webElementGuid>
+      <value>CURA Healthcare Service</value>
+      <webElementGuid>0ae821c3-53ea-4df3-97ad-db3cdcb8ff6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;summary&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 text-center&quot;]/h2[1]</value>
-      <webElementGuid>d270446b-18d2-41f1-b286-002020121ddf</webElementGuid>
+      <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]/h1[1]</value>
+      <webElementGuid>651fc5a4-f77d-478e-9dad-a47b41203b64</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='summary']/div/div/div/h2</value>
-      <webElementGuid>9fafa1ad-de95-4418-acc9-7ddd013ea6a1</webElementGuid>
+      <value>//header[@id='top']/div/h1</value>
+      <webElementGuid>73e51f69-175f-43de-8e97-124e4a1e95f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::h2[1]</value>
-      <webElementGuid>7d735fc5-635a-4d4d-9edb-273ca98b055e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::h1[1]</value>
+      <webElementGuid>dbda79e9-f7d2-47e7-b041-7898e970b701</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::h2[1]</value>
-      <webElementGuid>57218b09-b1c0-4945-9cb6-380e6776df67</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::h1[1]</value>
+      <webElementGuid>9d74d913-ed57-4501-b88c-52bf5e9cc41d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/preceding::h2[1]</value>
-      <webElementGuid>28526960-12a9-468a-9ad2-0359868e13dd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0fd48c83-1984-4036-ba0e-d6720eefe41d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/preceding::h2[1]</value>
-      <webElementGuid>4eb2610c-6ff1-4224-8f1c-9269372f09d3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Appointment Confirmation']/parent::*</value>
-      <webElementGuid>f3242d84-c485-490e-8bcc-eac073daec8c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/preceding::h1[1]</value>
+      <webElementGuid>6dcbfc04-1946-40ba-96c0-dcd43ce49af4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>3e5d53ad-28d8-4111-8d07-f5939f5a7ab8</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>25c6a0dc-c3d9-410f-a421-f4a0e6aba317</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'Appointment Confirmation' or . = 'Appointment Confirmation')]</value>
-      <webElementGuid>f3d94f92-125e-4507-bbd3-7c6c345dc135</webElementGuid>
+      <value>//h1[(text() = 'CURA Healthcare Service' or . = 'CURA Healthcare Service')]</value>
+      <webElementGuid>34d69b93-e130-4da4-8ae7-d7a6d786bf85</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

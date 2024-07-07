@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <csv-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\PC\Katalon Studio\My First Web UI Project\Files\CSV_Files\100cities.csv</source-url>
+      <source-type>CSV</source-type>
+      <sheet-name-or-separator>COMMA</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </csv-source-info>
+   <taken-date>2024-07-07T11:02:55.397+02:00</taken-date>
+   <column-names>
+      <column-name>city</column-name>
+      <column-name>result</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Atlanta",
+      "checked": true
+    },
+    {
+      "value": "miejsc w: Atlanta",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Warszawa",
+      "checked": true
+    },
+    {
+      "value": "miejsc w: Warszawa",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Ateny",
+      "checked": true
+    },
+    {
+      "value": "miejsc w: Ateny",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Tokio",
+      "checked": true
+    },
+    {
+      "value": "miejsc w: Tokio",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
