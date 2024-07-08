@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>setAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>459e2cc9-7267-4c4a-9aa3-6dfd28bf65a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60fc97db-47dc-4793-a6ea-8d09cc9d06c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c92bcb8-0d52-41b2-b51f-ca8754a4655a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>60fc97db-47dc-4793-a6ea-8d09cc9d06c8</id>
+      <masked>false</masked>
+      <name>tokyo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>8c92bcb8-0d52-41b2-b51f-ca8754a4655a</id>
+      <masked>false</masked>
+      <name>hongkong</name>
+   </variable>
+</TestCaseEntity>
