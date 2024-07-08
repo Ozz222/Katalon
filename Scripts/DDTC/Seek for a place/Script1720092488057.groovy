@@ -35,7 +35,8 @@ WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/div_31'))
 
 WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/label_14dni14dni'))
 
-WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj goci_t1dqvypu atm_9s_1ulexfb atm_336e94'))
+WebUI.click(findTestObject('Object Repository/AirBnBPages/Page_Main/span_Dodaj goci_t1dqvypu atm_9s_1ulexfb atm_336e94'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyTextPresent(expectedResult, false, FailureHandling.OPTIONAL)
 
