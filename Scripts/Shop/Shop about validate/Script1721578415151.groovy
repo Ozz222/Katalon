@@ -17,18 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Open Menu'))
+WebUI.click(findTestObject('Object Repository/Shop/Page_Swag Labs/button_Open Menu'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_About'))
+WebUI.click(findTestObject('Object Repository/Shop/Page_Swag Labs/a_About'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Sauce Labs Cross Browser Testing, Sele_e8ee84/p_The world relies on your code. Test on th_c31adf'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing, Sele_e8ee84 (1)/p_The world relies on your code. Test on th_c31adf'), 
     'The world relies on your code. Test on thousands of different device, browser, and OS configurations–anywhere, any time.')
-
-WebUI.click(findTestObject('Object Repository/Page_Sauce Labs Cross Browser Testing, Sele_e8ee84/button_Accept All Cookies'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Sauce Labs Cross Browser Testing, Sele_e8ee84/button_Test it all. Free'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Sauce Labs Cross Browser Testing, Sele_e8ee84/button_Request a demo'), 
-    0)
 
