@@ -22,20 +22,20 @@ import internal.GlobalVariable
 public class MyKeywords {
 	@Keyword
 	def AppLogin () {
-		
+
 		WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-		
+
 		WebUI.verifyElementVisible(findTestObject('Page_CURA Healthcare Service/headerCuraHealthcareService'), FailureHandling.STOP_ON_FAILURE)
-		
+
 		WebUI.click(findTestObject('Page_CURA Healthcare Service/a_Go to Homepage'))
-		
+
 		WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
-		
+
 		WebUI.setEncryptedText(findTestObject('Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-		
+
 		WebUI.click(findTestObject('Page_CURA Healthcare Service/button_Login'))
 	}
-	
+
 	@Keyword
 	def Congrats (String user) {
 		println(user + 'completed course' )

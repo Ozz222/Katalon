@@ -15,21 +15,21 @@
       <guid>5a7459f0-fe20-4710-9637-6fff005dac83</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Shop/Log to shop</testCaseId>
+      <testCaseId>Test Cases/Shop/BasicTests/Log to shop</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>59f65871-1959-4fea-b297-ffa4e50fb521</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Shop/Shop about validate</testCaseId>
+      <testCaseId>Test Cases/Shop/BasicTests/Shop about validate</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1fb9e95d-a20b-4c4b-b811-42d0a9a8bf9d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Shop/Shop-About-Product-Platform for Test</testCaseId>
+      <testCaseId>Test Cases/Shop/Products/Shop-About-Product-Platform for Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

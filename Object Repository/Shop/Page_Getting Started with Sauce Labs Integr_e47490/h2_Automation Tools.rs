@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Automation Tools</name>
+   <tag></tag>
+   <elementGuidId>b5547f8f-dd57-4099-b9e4-c24133612110</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#automation-tools</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='automation-tools']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Automation ToolsDirect link to Automation Tools&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0778aec8-aa8e-4487-94d5-39805c5bfcc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anchor anchorWithStickyNavbar_LWe7</value>
+      <webElementGuid>938ad377-0383-4d68-8bee-cf4a20a8c16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>automation-tools</value>
+      <webElementGuid>ddded90a-13bd-428f-b8fd-4a87546cabd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation Tools​</value>
+      <webElementGuid>082342cd-9bae-4adf-a257-8b791ddf775c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;automation-tools&quot;)</value>
+      <webElementGuid>9190443e-8a6f-4044-8dda-a6b832e3d3af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='automation-tools']</value>
+      <webElementGuid>2001e53e-fddc-4e4d-92b8-304eb69abbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/main/div/div/div/div/article/div/h2[3]</value>
+      <webElementGuid>2f505929-e4d1-4600-9ac6-98ee60cc1256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evinced'])[1]/following::h2[1]</value>
+      <webElementGuid>069592e8-2ae7-45d9-9138-210242e94d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='axe-core (by Deque)'])[1]/following::h2[1]</value>
+      <webElementGuid>57e799bb-ee17-4888-9636-b4cef2006bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c3530156-b482-446f-bc92-3174808bd574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automation Tools']/parent::*</value>
+      <webElementGuid>2086d98f-ff2f-42a4-be7b-193c5235992a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[3]</value>
+      <webElementGuid>749c65de-de1f-4f33-bfdd-4df1f9278c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'automation-tools' and (text() = 'Automation Tools​' or . = 'Automation Tools​')]</value>
+      <webElementGuid>f6391f39-023a-44a3-a5cf-113a37522573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

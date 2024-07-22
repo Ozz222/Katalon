@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='demo_username_label']</value>
+         <value>//span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

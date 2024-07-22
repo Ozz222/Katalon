@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Test Reporting and Management</name>
+   <tag></tag>
+   <elementGuidId>f06cdb3b-e1ba-415f-90f8-1a4162bd0bf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#test-reporting-and-management</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='test-reporting-and-management']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Test Reporting and ManagementDirect link to Test Reporting and Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>9fe5ed3d-dc53-4a0a-8da7-338a8586126b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anchor anchorWithStickyNavbar_LWe7</value>
+      <webElementGuid>d7783558-420a-47f2-9ef6-1b69d2e0174b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>test-reporting-and-management</value>
+      <webElementGuid>f682b188-18bc-4391-902c-2e0c7b9d05fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Reporting and Management​</value>
+      <webElementGuid>21cc27a4-803f-42f5-954a-c1171d14ac45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test-reporting-and-management&quot;)</value>
+      <webElementGuid>538be0c7-45b2-4e48-a4f9-a608b55477f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='test-reporting-and-management']</value>
+      <webElementGuid>0aa7708a-2c42-487d-a29e-18da4e975922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/main/div/div/div/div/article/div/h2[4]</value>
+      <webElementGuid>e2150daf-9825-4dc2-aff9-66bc7648557b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playwright'])[1]/following::h2[1]</value>
+      <webElementGuid>cae2c239-4019-4181-99a8-baaeaa3b2b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestCafe'])[1]/following::h2[1]</value>
+      <webElementGuid>5d62b893-0592-4485-bb9c-175899270129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ReportPortal'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0fb57ce3-1ea8-4e3d-aff5-6cf7e8540c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test Reporting and Management']/parent::*</value>
+      <webElementGuid>9fbec9b0-f310-4907-a53a-17216c60b40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[4]</value>
+      <webElementGuid>6ed003ee-7da7-448f-9982-92c507e81646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'test-reporting-and-management' and (text() = 'Test Reporting and Management​' or . = 'Test Reporting and Management​')]</value>
+      <webElementGuid>93e1c381-ed53-4bab-afd0-f3e24a9e9d00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

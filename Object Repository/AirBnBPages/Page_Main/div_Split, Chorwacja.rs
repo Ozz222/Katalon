@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gdzie'])[1]/following::div[7]</value>
       </entry>
       <entry>
          <key>CSS</key>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>dd89e731-b183-45db-a83c-4f6e85ae860a</webElementGuid>
+      <webElementGuid>3ebb2402-a1f9-44ee-be77-9d9a910636d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-label css-bheqw6</value>
-      <webElementGuid>49a8e288-4f6f-41a7-9837-2f96ea3538c2</webElementGuid>
+      <webElementGuid>f9e3a856-b5c8-45b6-870e-aac3e4e03772</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ERROR AND CRASH REPORTING WITH BACKTRACE</value>
-      <webElementGuid>5a27dc2a-85e9-4e20-b6f3-f608a0a1c63b</webElementGuid>
+      <webElementGuid>9622f18c-3493-4f48-b12a-eab230e811af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-19fa686&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg css-1pkbg3k&quot;]/div[@class=&quot;MuiStack-root css-dxe609&quot;]/div[@class=&quot;MuiStack-root css-19jlfq&quot;]/div[@class=&quot;MuiStack-root css-1d8k8ed&quot;]/div[@class=&quot;MuiStack-root css-1d8k8ed&quot;]/div[@class=&quot;MuiBox-root css-1it4v8j&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-label css-bheqw6&quot;]</value>
-      <webElementGuid>aabce703-422d-4936-a530-3109e883b832</webElementGuid>
+      <webElementGuid>4240f9b5-489e-49f6-a6f1-a3d183e22257</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/div/div[2]/div/div/div/div/h1</value>
-      <webElementGuid>f5ae995e-e44f-4490-81e0-21f4f3461fa3</webElementGuid>
+      <webElementGuid>45e4e952-3167-49ae-ad91-b9d75a4520da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Error Reporting'])[2]/following::h1[1]</value>
-      <webElementGuid>0d8d261b-36da-49bf-a063-fb929bc928ce</webElementGuid>
+      <webElementGuid>097ce5d8-22fd-4b50-9c0b-74328b54941c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/following::h1[1]</value>
-      <webElementGuid>b4891ab8-6e10-4ea0-b990-18c3171f845c</webElementGuid>
+      <webElementGuid>03e54456-0f6e-4d68-9002-4717e7eb093f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Find and fix errors before users experience them'])[1]/preceding::h1[1]</value>
-      <webElementGuid>65b12d2b-31d1-4611-bb17-359aba397281</webElementGuid>
+      <webElementGuid>bb8e3c82-5973-4d40-b989-e143d85407c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Backtrace for free'])[1]/preceding::h1[1]</value>
-      <webElementGuid>bdbf52e1-7274-4e63-b9b5-980c448c6ab6</webElementGuid>
+      <webElementGuid>271fd454-6d85-4b36-b07e-43ac7e153c6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ERROR AND CRASH REPORTING WITH BACKTRACE']/parent::*</value>
-      <webElementGuid>f699665d-778f-472d-992b-1c65abdc911c</webElementGuid>
+      <webElementGuid>711aaa46-8416-4320-9adb-e7b525f9d1e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>454b6f58-9846-46fe-9c2d-09b51314f695</webElementGuid>
+      <webElementGuid>b9dc24f6-d38f-42de-b013-b2e9e2a9a36b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'ERROR AND CRASH REPORTING WITH BACKTRACE' or . = 'ERROR AND CRASH REPORTING WITH BACKTRACE')]</value>
-      <webElementGuid>5707c4b2-9602-4540-848f-379fe1c223d7</webElementGuid>
+      <webElementGuid>e757f20b-635b-41c1-8704-aa71841b2cdc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

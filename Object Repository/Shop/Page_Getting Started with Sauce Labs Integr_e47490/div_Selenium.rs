@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selenium</name>
+   <tag></tag>
+   <elementGuidId>09deac9a-162c-497c-b30e-54dda216a5e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/main/div/div/div/div/article/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Selenium$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9208614-bc88-4d3f-be0f-a0eb73271a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box box1 card</value>
+      <webElementGuid>d318fb42-8aaa-4a1a-8aa4-5dc9947e69ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium</value>
+      <webElementGuid>12c58ce7-5dbc-4570-866a-3676a4aae157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus_skipToContent_fallback&quot;)/div[@class=&quot;docsWrapper_hBAB&quot;]/div[@class=&quot;docRoot_UBD9&quot;]/main[@class=&quot;docMainContainer_TBSr&quot;]/div[@class=&quot;container padding-top--md padding-bottom--lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;docItemContainer_Djhp&quot;]/article[1]/div[@class=&quot;theme-doc-markdown markdown&quot;]/div[@class=&quot;box-wrapper&quot;]/div[@class=&quot;box box1 card&quot;]</value>
+      <webElementGuid>b8f5c3e1-8423-463e-b84e-cde10193c3a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/main/div/div/div/div/article/div/div[3]/div</value>
+      <webElementGuid>1c1d9869-67e1-496c-8062-0f2eea0e9941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[2]</value>
+      <webElementGuid>bbbef745-5ca2-4b6b-9e99-bbc57beba09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espresso'])[1]/preceding::div[2]</value>
+      <webElementGuid>2adc71bd-5bea-4278-950e-9e1a2b7bba88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>5f5c8303-a560-409b-b463-c19182c4a74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selenium' or . = 'Selenium')]</value>
+      <webElementGuid>fb8bcac8-79c4-46ce-a19f-3b00f919035a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Log to Shop-About-Solutions-MobileAppDistribution-Validate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5bd2a67-a7cc-4131-b27d-f78e1614c044</testCaseGuid>
+</TestCaseEntity>
