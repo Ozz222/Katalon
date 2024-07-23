@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SupportBy framework</name>
+   <tag></tag>
+   <elementGuidId>d8c65666-352b-4cba-a53c-c312bd6a9073</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div/div[2]/div[2]/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Support By framework&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3696f69a-2d68-4a69-8b89-81af40e29234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-d416pa</value>
+      <webElementGuid>d7b8d83a-9a62-44ba-a4a0-48a917d23e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SupportBy framework</value>
+      <webElementGuid>d0d45f33-f012-4417-8a66-190a73318f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-fzuta4&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl MuiContainer-disableGutters css-1orecca&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular css-1bqarcd&quot;]/div[@class=&quot;MuiStack-root css-19diydd&quot;]/div[@class=&quot;PrivateHiddenCss-root PrivateHiddenCss-mdDown css-9sga2b&quot;]/div[@class=&quot;MuiStack-root css-e3zn88&quot;]/div[@class=&quot;MuiStack-root css-1gtnyi3&quot;]/div[@class=&quot;dropdown MuiBox-root css-1e93amx&quot;]/div[@class=&quot;MuiStack-root css-1xhj18k&quot;]/div[@class=&quot;MuiBox-root css-1doduzn&quot;]/div[@class=&quot;MuiStack-root css-i055b7&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1n2ole0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[1]/div[@class=&quot;MuiBox-root css-d416pa&quot;]</value>
+      <webElementGuid>5bedda53-6e51-41d2-939b-0cf43fa13039</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div/div[2]/div[2]/div[3]/a/div</value>
+      <webElementGuid>78863d57-b3c0-4afb-82e4-650724b0b65e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Changelog'])[1]/following::div[3]</value>
+      <webElementGuid>b70f5f8c-0197-48a8-9c0c-ec57f66f279f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div[2]/div[3]/a/div</value>
+      <webElementGuid>a60cbf4f-431e-4c71-b6d3-54ba4bf25035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SupportBy framework' or . = 'SupportBy framework')]</value>
+      <webElementGuid>03ad6ea6-b5d3-4cd1-b17e-65c0452b81ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

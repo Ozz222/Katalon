@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cypress</name>
+   <tag></tag>
+   <elementGuidId>8bc28cd9-8629-47f1-b491-034abeabe885</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Cypress&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>449443d1-b57b-4109-96f9-673a4ee6a8ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-d416pa</value>
+      <webElementGuid>89a428a0-98d8-4de3-84ef-dd9303957d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cypress</value>
+      <webElementGuid>150c936f-f712-493a-8dfd-b1f904c56509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-fzuta4&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl MuiContainer-disableGutters css-1orecca&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular css-1bqarcd&quot;]/div[@class=&quot;MuiStack-root css-19diydd&quot;]/div[@class=&quot;PrivateHiddenCss-root PrivateHiddenCss-mdDown css-9sga2b&quot;]/div[@class=&quot;MuiStack-root css-e3zn88&quot;]/div[@class=&quot;MuiStack-root css-1gtnyi3&quot;]/div[@class=&quot;dropdown MuiBox-root css-1e93amx&quot;]/div[@class=&quot;MuiStack-root css-1xhj18k&quot;]/div[@class=&quot;MuiBox-root css-1doduzn&quot;]/div[@class=&quot;MuiStack-root css-i055b7&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1n2ole0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[1]/div[@class=&quot;MuiBox-root css-d416pa&quot;]</value>
+      <webElementGuid>2fc3e4f5-4e84-4c0d-8807-34cd8db46038</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]/a/div</value>
+      <webElementGuid>6dcc8a37-495a-4dc0-923d-c4e391eb1758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appium'])[1]/following::div[2]</value>
+      <webElementGuid>7e6f865e-58c5-4b5e-9c1c-54dbc9d53d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium'])[1]/following::div[7]</value>
+      <webElementGuid>f20ff5dd-6411-4311-a080-a4ced7b129b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playwright'])[1]/preceding::div[4]</value>
+      <webElementGuid>a92b8df0-1a41-4a52-905b-4cc4d367d2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div[3]/a/div</value>
+      <webElementGuid>0368f868-9222-4c64-9201-87ace2bc9680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cypress' or . = 'Cypress')]</value>
+      <webElementGuid>40f7f3da-788e-4a22-ad22-37b33f3429b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

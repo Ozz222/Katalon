@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selenium</name>
+   <tag></tag>
+   <elementGuidId>b12207a7-8bcd-4fc9-88bd-9f5d7a59d4ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Selenium&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d22498e2-b7df-4115-af4f-200fee06a9e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-d416pa</value>
+      <webElementGuid>f114cc0d-7abb-40cd-aa97-8ee2ef8adc51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium</value>
+      <webElementGuid>63ff17dc-18de-4a03-abe3-989dd124086a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-fzuta4&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl MuiContainer-disableGutters css-1orecca&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular css-1bqarcd&quot;]/div[@class=&quot;MuiStack-root css-19diydd&quot;]/div[@class=&quot;PrivateHiddenCss-root PrivateHiddenCss-mdDown css-9sga2b&quot;]/div[@class=&quot;MuiStack-root css-e3zn88&quot;]/div[@class=&quot;MuiStack-root css-1gtnyi3&quot;]/div[@class=&quot;dropdown MuiBox-root css-1e93amx&quot;]/div[@class=&quot;MuiStack-root css-1xhj18k&quot;]/div[@class=&quot;MuiBox-root css-1doduzn&quot;]/div[@class=&quot;MuiStack-root css-i055b7&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1n2ole0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[1]/div[@class=&quot;MuiBox-root css-d416pa&quot;]</value>
+      <webElementGuid>cfea8183-d904-41b9-b5ba-f190634408c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>7bfdfa5b-03d6-4346-ad80-629f9d09c193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quickstart guides'])[1]/following::div[5]</value>
+      <webElementGuid>3d98ad25-9731-4aa7-a534-38acf35fde69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about our solutions'])[1]/following::div[7]</value>
+      <webElementGuid>af30c04b-e906-4b2f-a101-e014daccc4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appium'])[1]/preceding::div[4]</value>
+      <webElementGuid>4cd9b922-e50f-408e-9a38-147a521eb36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>1ad24042-df44-4db4-893f-87982c5e28c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selenium' or . = 'Selenium')]</value>
+      <webElementGuid>f071917e-d50f-4c86-8fa8-5a6b2801ba50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

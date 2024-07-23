@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Documentation</name>
+   <tag></tag>
+   <elementGuidId>77df8a75-0d5b-48df-ad87-ccbb4bafc015</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div/div[2]/div[2]/div/a/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Documentation How to use Sauce Labs&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16412c60-a033-4f51-8fbb-1612111bca72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-buttonLabel css-3nj0wx</value>
+      <webElementGuid>81780f4c-e358-42a0-b1e1-38b6ea3c8caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Documentation</value>
+      <webElementGuid>0320fa70-3a2d-49be-b739-6867dc3223c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-fzuta4&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl MuiContainer-disableGutters css-1orecca&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular css-1bqarcd&quot;]/div[@class=&quot;MuiStack-root css-19diydd&quot;]/div[@class=&quot;PrivateHiddenCss-root PrivateHiddenCss-mdDown css-9sga2b&quot;]/div[@class=&quot;MuiStack-root css-e3zn88&quot;]/div[@class=&quot;MuiStack-root css-1gtnyi3&quot;]/div[@class=&quot;dropdown MuiBox-root css-1e93amx&quot;]/div[@class=&quot;MuiStack-root css-1xhj18k&quot;]/div[@class=&quot;MuiBox-root css-1doduzn&quot;]/div[@class=&quot;MuiStack-root css-i055b7&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1n2ole0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[1]/div[@class=&quot;MuiBox-root css-d416pa&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiStack-root css-1xhj18k&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-buttonLabel css-3nj0wx&quot;]</value>
+      <webElementGuid>a1365acd-16d3-499a-b7f7-05f53afad728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div/div/div/div[2]/div/div[4]/div[2]/div/div/div/div[2]/div[2]/div/a/div/div/div/div/span</value>
+      <webElementGuid>58a5e88f-89f7-4dce-ade8-4851d047ffc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources for devs &amp; testers'])[1]/following::span[1]</value>
+      <webElementGuid>1956edd8-fa3a-44c2-a5ea-54ec5a7bf270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Developers'])[1]/following::span[3]</value>
+      <webElementGuid>8a97e2f3-c15f-4e05-9c23-cb5d4c00ef33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to use Sauce Labs'])[1]/preceding::span[1]</value>
+      <webElementGuid>c5f80f68-7f01-4763-a4dd-fdd042a64d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Changelog'])[1]/preceding::span[2]</value>
+      <webElementGuid>8a4cd791-d0f4-41b4-ba0e-36aade245e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Documentation']/parent::*</value>
+      <webElementGuid>23a23cb3-fb7d-42a5-b555-a39f2649229f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div[2]/div/a/div/div/div/div/span</value>
+      <webElementGuid>518fb3f5-b63c-4b24-ac76-3b692bcf9f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Documentation' or . = 'Documentation')]</value>
+      <webElementGuid>212e640e-59e6-4783-ada4-ee084b4902a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

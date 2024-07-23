@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Events</name>
+   <tag></tag>
+   <elementGuidId>0121e8ea-3b48-4e81-bbbe-6b617f71e975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div/div/div[2]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.MuiTypography-root.MuiTypography-h2.css-1v9qm8w</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>h2 >> internal:has-text=&quot;Events&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b4e7009d-9dc2-4ee2-884e-a3423df1a20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h2 css-1v9qm8w</value>
+      <webElementGuid>7c74c3be-5e7d-4850-bee4-ce4307b60231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Events</value>
+      <webElementGuid>86ea76b4-3990-4749-afde-050b5278aa2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-83l0k4&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg css-ljahw8&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-q3p951&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-5 css-1lrp86k&quot;]/div[@class=&quot;MuiStack-root css-1ugsilx&quot;]/div[@class=&quot;MuiBox-root css-4ht1i4&quot;]/div[@class=&quot;MuiBox-root css-178yklu&quot;]/h2[@class=&quot;MuiTypography-root MuiTypography-h2 css-1v9qm8w&quot;]</value>
+      <webElementGuid>06e64e0a-035e-451b-835c-f9b17f2c4fae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div/div/div[2]/div/h2</value>
+      <webElementGuid>b60056b3-76f8-432b-addd-f33d15297afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[2]/following::h2[1]</value>
+      <webElementGuid>facc0754-84e3-430e-acac-4483f048e6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::h2[1]</value>
+      <webElementGuid>8067cc32-1c23-46d7-9180-bb710096d07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming Event'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0f8c852c-31b7-4e59-a57c-0d9e7d41ecdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Office Hours'])[1]/preceding::h2[1]</value>
+      <webElementGuid>851c62d9-3c70-4abd-9305-ed04b53aa938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>ed22faaf-a661-46df-8e7d-1f7a78afb04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Events' or . = 'Events')]</value>
+      <webElementGuid>381fa992-ec92-4462-95ad-bf85e28f8908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
