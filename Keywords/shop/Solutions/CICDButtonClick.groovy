@@ -21,15 +21,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class CICDButtonClick {
-	
-		@Keyword
-		def cicdButtonClick () {
-			
-			WebUI.mouseOver(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Solutions'))
-			
-			WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_CICD pipeline optimization'), 'CI/CD pipeline optimization')
-			
-			WebUI.click(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_CICD pipeline optimization'))
-			
-		}
+
+	@Keyword
+	def cicdButtonClick () {
+
+		WebUI.mouseOver(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Solutions'))
+
+		WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_CICD pipeline optimization'), 'CI/CD pipeline optimization')
+
+		WebUI.click(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_CICD pipeline optimization'))
+	}
 }

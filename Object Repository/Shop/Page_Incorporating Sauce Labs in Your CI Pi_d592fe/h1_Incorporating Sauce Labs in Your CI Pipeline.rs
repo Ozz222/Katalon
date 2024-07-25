@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/main/div/div/div/div/article/div/header/h1</value>
+         <value>//h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
