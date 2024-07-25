@@ -20,13 +20,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class TestManagementButtonClick {
-
+public class TestAutomationButtonClick {
+	
 	@Keyword
-	def testManagementButtonClick () {
+	def testAutomationButtonClick () {
 
 		WebUI.mouseOver(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Solutions'))
-		WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test management'),'Test management')
-		WebUI.click(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test management'))
+
+		WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test automation'), 
+    'Test automation')
+
+		WebUI.click(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test automation'))
 	}
 }

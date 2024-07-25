@@ -21,15 +21,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class TestCreationButtonClick {
-	
+
 	@Keyword
 	def testCreationButtonClick () {
-	
-	WebUI.mouseOver(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Solutions'))
 
-	WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test creation'), 
-    'Test creation')
+		WebUI.mouseOver(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Solutions'))
 
-	WebUI.click(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test creation'))
-}
+		WebUI.verifyElementText(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test creation'),
+				'Test creation')
+
+		WebUI.click(findTestObject('Object Repository/Shop/Page_Sauce Labs Cross Browser Testing/span_Test creation'))
+	}
 }
